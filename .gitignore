@@ -220,4 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Database files
-ny_taxi_postgres_data/18/docker
+/ny_taxi_postgres_data/18/docker
